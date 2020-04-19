@@ -1,0 +1,19 @@
+﻿  Engine.cpp
+C:\Users\Simon\Documents\Interactive 3D\SCUM_ENGINE\vs\Bullet.h(35,106): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Simon\Documents\Interactive 3D\SCUM_ENGINE\vs\Water.h(69,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Simon\Documents\Interactive 3D\SCUM_ENGINE\vs\Boat.h(47,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Simon\Documents\Interactive 3D\SCUM_ENGINE\vs\Boat.h(50,1): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Simon\Documents\Interactive 3D\SCUM_ENGINE\vs\Rigidbody2D.h(75,81): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Simon\Documents\Interactive 3D\SCUM_ENGINE\vs\Rigidbody2D.h(77,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Simon\Documents\Interactive 3D\SCUM_ENGINE\vs\Rigidbody2D.h(79,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Simon\Documents\Interactive 3D\SCUM_ENGINE\vs\Cannon.h(49,1): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Simon\Documents\Interactive 3D\SCUM_ENGINE\vs\Cannon.h(58,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Simon\Documents\Interactive 3D\SCUM_ENGINE\vs\Cannon.h(61,1): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Simon\Documents\Interactive 3D\SCUM_ENGINE\vs\Engine.cpp(83,81): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Simon\Documents\Interactive 3D\SCUM_ENGINE\vs\Engine.cpp(101,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Simon\Documents\Interactive 3D\SCUM_ENGINE\vs\Engine.cpp(107,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Simon\Documents\Interactive 3D\SCUM_ENGINE\vs\Engine.cpp(108,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Simon\Documents\Interactive 3D\SCUM_ENGINE\vs\Engine.cpp(112,33): warning C4244: '+=': conversion from 'float' to 'long', possible loss of data
+C:\Users\Simon\Documents\Interactive 3D\SCUM_ENGINE\vs\Engine.cpp(219,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Simon\Documents\Interactive 3D\SCUM_ENGINE\vs\Engine.cpp(232,53): warning C4305: 'argument': truncation from 'double' to 'float'
+  i3d.vcxproj -> C:\Users\Simon\Documents\Interactive 3D\SCUM_ENGINE\vs\\..\i3d64dbg.exe
